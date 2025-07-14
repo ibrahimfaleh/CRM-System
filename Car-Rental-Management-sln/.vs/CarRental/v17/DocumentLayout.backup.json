@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F69C41B-0DE3-4529-AB37-68CBCB3DAF8C}|..\\CarRental_DataAccess\\CarRental_DataAccess.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\carrental_dataaccess\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F69C41B-0DE3-4529-AB37-68CBCB3DAF8C}|..\\CarRental_DataAccess\\CarRental_DataAccess.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\carrental_dataaccess\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\pepole\\person\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:pepole\\person\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3BA09D-7115-4D80-9656-7DFA00B94F18}|..\\CarRental_Buisness\\CarRental_Business.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\carrental_buisness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\pepole\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:pepole\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\administration\\forms\\frmadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:administration\\forms\\frmadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\pepole\\person\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:pepole\\person\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\administration\\forms\\frmadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:administration\\forms\\frmadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|c:\\users\\\u0447\u0435\u043B\u043E\u0432\u0435\u043A\\desktop\\new folder (17)\\crm-system\\car-rental-management-sln\\global classes\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6147DE05-C7CD-4D77-A77B-CB0070B4C453}|CarRental.csproj|solutionrelative:global classes\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsCountryData.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\CarRental_DataAccess\\clsCountryData.cs",
+              "RelativeDocumentMoniker": "..\\CarRental_DataAccess\\clsCountryData.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\CarRental_DataAccess\\clsCountryData.cs",
+              "RelativeToolTip": "..\\CarRental_DataAccess\\clsCountryData.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAlwFYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:21:07.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\CarRental_DataAccess\\PersonData.cs",
+              "RelativeDocumentMoniker": "..\\CarRental_DataAccess\\PersonData.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\CarRental_DataAccess\\PersonData.cs",
+              "RelativeToolTip": "..\\CarRental_DataAccess\\PersonData.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:08:34.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:59:29.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwIkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:58:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:55:40.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAdministration.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Administration\\Forms\\frmAdministration.cs",
+              "RelativeDocumentMoniker": "Administration\\Forms\\frmAdministration.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Administration\\Forms\\frmAdministration.cs",
+              "RelativeToolTip": "Administration\\Forms\\frmAdministration.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAvwFUBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:54:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAdministration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Administration\\Forms\\frmAdministration.cs",
+              "RelativeDocumentMoniker": "Administration\\Forms\\frmAdministration.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Administration\\Forms\\frmAdministration.cs [Design]",
+              "RelativeToolTip": "Administration\\Forms\\frmAdministration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:54:01.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmShowPersonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Pepole\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "Pepole\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Pepole\\frmShowPersonInfo.cs",
+              "RelativeToolTip": "Pepole\\frmShowPersonInfo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:51:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\CarRental_Buisness\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\CarRental_Buisness\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\CarRental_Buisness\\clsPerson.cs",
+              "RelativeToolTip": "..\\CarRental_Buisness\\clsPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:36:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmListPeople.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Pepole\\Person\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "Pepole\\Person\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Pepole\\Person\\frmListPeople.cs",
+              "RelativeToolTip": "Pepole\\Person\\frmListPeople.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:33:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmListPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Pepole\\Person\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "Pepole\\Person\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Pepole\\Person\\frmListPeople.cs [Design]",
+              "RelativeToolTip": "Pepole\\Person\\frmListPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:32:44.489Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "util.cs",
+              "DocumentMoniker": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Global Classes\\util.cs",
+              "RelativeDocumentMoniker": "Global Classes\\util.cs",
+              "ToolTip": "C:\\Users\\\u0427\u0435\u043B\u043E\u0432\u0435\u043A\\Desktop\\New folder (17)\\CRM-System\\Car-Rental-Management-sln\\Global Classes\\util.cs",
+              "RelativeToolTip": "Global Classes\\util.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:03:13.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

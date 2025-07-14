@@ -1,0 +1,625 @@
+C:\CarRental\bin\Debug\CarRental.exe.config
+C:\CarRental\bin\Debug\CarRental.exe
+C:\CarRental\bin\Debug\CarRental.pdb
+C:\CarRental\bin\Debug\Guna.UI2.dll
+C:\CarRental\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\CarRental\obj\Debug\CarRental.Properties.Resources.resources
+C:\CarRental\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\CarRental\obj\Debug\CarRental.csproj.CopyComplete
+C:\CarRental\obj\Debug\CarRental.exe
+C:\CarRental\obj\Debug\CarRental.pdb
+C:\CarRental\obj\Debug\CarRental.frmAddNewBooking.resources
+C:\CarRental\bin\Debug\CarRental_Buisness.dll
+C:\CarRental\bin\Debug\CarRental_DataAccess.dll
+C:\CarRental\bin\Debug\CarRental_Buisness.pdb
+C:\CarRental\bin\Debug\CarRental_DataAccess.pdb
+C:\CarRental\obj\Debug\CarRental.ctrlCustomerCard.resources
+C:\CarRental\obj\Debug\CarRental.ctrlCustomerCardWithFilter.resources
+C:\CarRental\obj\Debug\CarRental.ctrlPersonCard.resources
+C:\CarRental\obj\Debug\CarRental.ctrlPersonCardWithFilter.resources
+C:\CarRental\obj\Debug\CarRental.ctrlUserCard.resources
+C:\CarRental\obj\Debug\CarRental.Customers.frmAddUpdateCustomer.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.frmAddUpdatePerson.resources
+C:\CarRental\obj\Debug\CarRental.Users.frmAddUpdateUser.resources
+C:\CarRental\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\CarRental\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\CarRental\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\CarRental\obj\Debug\CarRental.frmAddUpdateVehicle.resources
+C:\CarRental\obj\Debug\CarRental.Vehicles.ctrlShortDetailsVehicle.resources
+C:\CarRental\obj\Debug\CarRental.Vehicles.frmListVehicels.resources
+C:\CarRental\bin\Debug\Dapper.dll
+C:\CarRental\bin\Debug\MaterialSkin.dll
+C:\CarRental\bin\Debug\Dapper.xml
+C:\CarRental\obj\Debug\CarRental.Checks.frmAddEditCheck.resources
+C:\CarRental\obj\Debug\CarRental.frmTest.resources
+C:\CarRental\obj\Debug\CarRental.Vehicles.frmVehiclesReturn.resources
+C:\CarRental\obj\Debug\CarRental.Bookings.ctrlRentalBookingDetails.resources
+C:\CarRental\obj\Debug\CarRental.Checks.ctrlCheckDetails.resources
+C:\CarRental\obj\Debug\CarRental.Checks.frmShowBookingCheckDetails.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Transaction.ctrlRentalTransactionDetails.resources
+C:\CarRental\obj\Debug\CarRental.frmShowImage.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Transaction.VehiclesReturn.ctrlVehicleReturn.resources
+C:\CarRental\obj\Debug\CarRental.Customers.frmListCustomers.resources
+C:\CarRental\obj\Debug\CarRental.Customers.frmShowCustomerInfo.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Transaction.frmShowRentalTransActionInfo.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Transaction.frmListTransAction.resources
+C:\CarRental\obj\Debug\CarRental.Users.frmUserDetails.resources
+C:\CarRental\obj\Debug\CarRental.Users.frmListUsers.resources
+C:\CarRental\obj\Debug\CarRental.Login.frmLogin.resources
+C:\CarRental\obj\Debug\CarRental.Customers.ctrlAllCustomerInformation.resources
+C:\CarRental\obj\Debug\CarRental.Users.ctrldgListUsersTransActions.resources
+C:\CarRental\obj\Debug\CarRental.Users.ctrlUserAllInfo.resources
+C:\CarRental\obj\Debug\CarRental.Users.frmListUsersTransActions.resources
+C:\CarRental\obj\Debug\CarRental.frmMain.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.ctrlDgvDailyFundTransaction.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.frmSupportingFundLiquidity.resources
+C:\CarRental\obj\Debug\CarRental.frmListDailyIncomeFunds.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.frmDailyIncomeFund.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Transaction.Rental_Settings.frmCarRentalOperationsManagement.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCard.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCardWithFilter.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.Employee.frmAddUpdateEmployee.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.Employee.frmListEmployees.resources
+C:\CarRental\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmPaymentOfSalaries.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmGeneralFundSupport.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmManagingGeneralFund.resources
+C:\CarRental\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.ctrldgvMoneyWithdrawalTransaction.resources
+C:\CarRental\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.ctrldgvSalaryPayments.resources
+C:\CarRental\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmListSalaryPayments.resources
+C:\CarRental\obj\Debug\CarRental.General_Revenue_Fund.ctrldgvGeneralFundSupportTransactions.resources
+C:\CarRental\obj\Debug\CarRental.Daily_Income_Fund.ctrldgvListDailyIncomeFunds.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Transaction.ctrlDgvListTransactions.resources
+C:\CarRental\obj\Debug\CarRental.frmAddNewBranch.resources
+C:\CarRental\obj\Debug\CarRental.frmVat.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmAddUpdateAmountSpent.resources
+C:\CarRental\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.frmMoneyWithdrawalTransaction.resources
+C:\CarRental\obj\Debug\CarRental.Maintenance_Management.ctrlListMaintenanceTransactions.resources
+C:\CarRental\obj\Debug\CarRental.frmAddUpdateMaintenanceTransaction.resources
+C:\CarRental\obj\Debug\CarRental.Maintenance_Management.frmListMaintenanceTransactions.resources
+C:\CarRental\obj\Debug\CarRental.General_Revenue_Fund.frmListGeneralFundSupporters.resources
+C:\CarRental\obj\Debug\CarRental.Daily_Income_Fund.frmDailyIncomeDetails.resources
+C:\CarRental\obj\Debug\CarRental.frmDashboard.resources
+C:\CarRental\obj\Debug\CarRental.ctrlStatistics.resources
+C:\CarRental\obj\Debug\CarRental.ctrlBranchChart.resources
+C:\CarRental\obj\Debug\CarRental.ctrlBranchCard.resources
+C:\CarRental\obj\Debug\CarRental.ctrlBranchChartWithBranchCard.resources
+C:\CarRental\obj\Debug\CarRental.ctrlStatisticsWithBranchCard.resources
+C:\CarRental\obj\Debug\CarRental.ctrlBranchesChart.resources
+C:\CarRental\obj\Debug\CarRental.ctrlAllBranchesInAChart.resources
+C:\CarRental\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCard.resources
+C:\CarRental\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCardWithIncomeDetails.resources
+C:\CarRental\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.ctrlGeneralRevenueFundIncomeDetails.resources
+C:\CarRental\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundChart.resources
+C:\CarRental\bin\Debug\LiveCharts.dll
+C:\CarRental\bin\Debug\LiveCharts.Wpf.dll
+C:\CarRental\bin\Debug\LiveCharts.pdb
+C:\CarRental\bin\Debug\LiveCharts.xml
+C:\CarRental\bin\Debug\LiveCharts.Wpf.pdb
+C:\CarRental\bin\Debug\LiveCharts.Wpf.xml
+C:\CarRental\obj\Debug\CarRental.Amounts_Spent.ctrlAmountSpentDetails.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.User.frmChangePassword.resources
+C:\CarRental\obj\Debug\CarRental.Pepole.User.frmUserInfo.resources
+C:\CarRental\obj\Debug\CarRental.frmSellingVehicle.resources
+C:\CarRental\obj\Debug\CarRental.Vehicles.ctrlVehicleWithFilter.resources
+C:\CarRental\obj\Debug\CarRental.frmAddUpdateContract.resources
+C:\CarRental\obj\Debug\CarRental.ctrlContractDetails.resources
+C:\CarRental\obj\Debug\CarRental.ctrlContractDetailsWithFilter.resources
+C:\CarRental\obj\Debug\CarRental.frmAddUpdateContractPaymentScheduling.resources
+C:\CarRental\obj\Debug\CarRental.frmPaymentOfInstallments.resources
+C:\CarRental\obj\Debug\CarRental.frmProgramManagement.resources
+C:\CarRental\obj\Debug\CarRental.ctrlStatisticsForfrmProgramingManagement.resources
+C:\CarRental\obj\Debug\CarRental.frmListOfBranchesAndLogInToThem.resources
+C:\CarRental\obj\Debug\CarRental.frmListOfContracts.resources
+C:\CarRental\obj\Debug\CarRental.frmAddUpdateBills.resources
+C:\CarRental\obj\Debug\CarRental.frmListOfBills.resources
+C:\CarRental\obj\Debug\CarRental.Bill.Controls.ctrlBillCard.resources
+C:\CarRental\obj\Debug\CarRental.Bill.Controls.ctrlBillCardWithFilter.resources
+C:\CarRental\obj\Debug\CarRental.frmDailyFundBill.resources
+C:\CarRental\obj\Debug\CarRental.frmPayGeneralFundBill.resources
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental.exe.config
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental.exe
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental.pdb
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental_Buisness.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\Dapper.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\Guna.UI2.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\LiveCharts.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\LiveCharts.Wpf.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\MaterialSkin.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental_DataAccess.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental_Buisness.pdb
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\Dapper.xml
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\LiveCharts.pdb
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\LiveCharts.xml
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\LiveCharts.Wpf.pdb
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\LiveCharts.Wpf.xml
+C:\CarRentalManagement\CarRentalManagement\bin\Debug\CarRental_DataAccess.pdb
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.ctrlAmountSpentDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.ctrldgvMoneyWithdrawalTransaction.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.frmMoneyWithdrawalTransaction.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.ctrldgvSalaryPayments.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmListSalaryPayments.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmPaymentOfSalaries.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Bill.Controls.ctrlBillCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Bill.Controls.ctrlBillCardWithFilter.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Checks.ctrlCheckDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Checks.frmShowBookingCheckDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlAllBranchesInAChart.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlBranchChart.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlBranchCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlBranchChartWithBranchCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlBranchesChart.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlContractDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlStatistics.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlStatisticsForfrmProgramingManagement.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlStatisticsWithBranchCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Daily_Income_Fund.ctrldgvListDailyIncomeFunds.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddNewBranch.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmVat.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Daily_Income_Fund.frmDailyIncomeDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateBills.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateContract.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateContractPaymentScheduling.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmDailyFundBill.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmDashboard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmListOfBills.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmListOfBranchesAndLogInToThem.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmListOfContracts.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmPayGeneralFundBill.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmPaymentOfInstallments.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmProgramManagement.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmSellingVehicle.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCardWithIncomeDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundChart.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.frmListGeneralFundSupporters.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Maintenance_Management.ctrlListMaintenanceTransactions.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateMaintenanceTransaction.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrldgvGeneralFundSupportTransactions.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Maintenance_Management.frmListMaintenanceTransactions.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Customers.ctrlAllCustomerInformation.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Customers.frmListCustomers.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Customers.frmShowCustomerInfo.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCardWithFilter.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.frmAddUpdateEmployee.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.frmListEmployees.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmListDailyIncomeFunds.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmShowImage.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Login.frmLogin.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.ctrlDgvDailyFundTransaction.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.frmDailyIncomeFund.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.frmSupportingFundLiquidity.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.ctrlGeneralRevenueFundIncomeDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmGeneralFundSupport.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmManagingGeneralFund.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmAddUpdateAmountSpent.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.User.frmChangePassword.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.User.frmUserInfo.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Bookings.ctrlRentalBookingDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Checks.frmAddEditCheck.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlCustomerCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlCustomerCardWithFilter.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Customers.frmAddUpdateCustomer.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmTest.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlPersonCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlPersonCardWithFilter.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Pepole.frmAddUpdatePerson.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.ctrlDgvListTransactions.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.ctrlRentalTransactionDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.frmListTransAction.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.frmShowRentalTransActionInfo.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.Rental_Settings.frmCarRentalOperationsManagement.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.VehiclesReturn.ctrlVehicleReturn.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Users.ctrldgListUsersTransActions.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Users.ctrlUserAllInfo.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlUserCard.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmMain.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Users.frmAddUpdateUser.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Users.frmListUsersTransActions.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Users.frmListUsers.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Users.frmUserDetails.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.ctrlContractDetailsWithFilter.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Vehicles.ctrlShortDetailsVehicle.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Vehicles.ctrlVehicleWithFilter.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateVehicle.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.frmAddNewBooking.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Properties.Resources.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Vehicles.frmListVehicels.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.Vehicles.frmVehiclesReturn.resources
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.csproj.CopyComplete
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.exe
+C:\CarRentalManagement\CarRentalManagement\obj\Debug\CarRental.pdb
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental.exe.config
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental.exe
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental.pdb
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental_Buisness.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\Dapper.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\Guna.UI2.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\LiveCharts.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\LiveCharts.Wpf.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\MaterialSkin.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental_DataAccess.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental_Buisness.pdb
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\Dapper.xml
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\LiveCharts.pdb
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\LiveCharts.xml
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\LiveCharts.Wpf.pdb
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\LiveCharts.Wpf.xml
+C:\Car-Rental-Management\CarRentalManagement\bin\Debug\CarRental_DataAccess.pdb
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.ctrlAmountSpentDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.ctrldgvMoneyWithdrawalTransaction.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.frmMoneyWithdrawalTransaction.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.ctrldgvSalaryPayments.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmListSalaryPayments.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmPaymentOfSalaries.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Bill.Controls.ctrlBillCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Bill.Controls.ctrlBillCardWithFilter.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Checks.ctrlCheckDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Checks.frmShowBookingCheckDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlAllBranchesInAChart.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlBranchChart.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlBranchCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlBranchChartWithBranchCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlBranchesChart.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlContractDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlStatistics.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlStatisticsForfrmProgramingManagement.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlStatisticsWithBranchCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Daily_Income_Fund.ctrldgvListDailyIncomeFunds.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddNewBranch.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmVat.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Daily_Income_Fund.frmDailyIncomeDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateBills.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateContract.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateContractPaymentScheduling.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmDailyFundBill.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmDashboard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmListOfBills.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmListOfBranchesAndLogInToThem.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmListOfContracts.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmPayGeneralFundBill.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmPaymentOfInstallments.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmProgramManagement.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmSellingVehicle.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCardWithIncomeDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundChart.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.frmListGeneralFundSupporters.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Maintenance_Management.ctrlListMaintenanceTransactions.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateMaintenanceTransaction.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.General_Revenue_Fund.ctrldgvGeneralFundSupportTransactions.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Maintenance_Management.frmListMaintenanceTransactions.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Customers.ctrlAllCustomerInformation.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Customers.frmListCustomers.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Customers.frmShowCustomerInfo.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCardWithFilter.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.frmAddUpdateEmployee.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.Employee.frmListEmployees.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmListDailyIncomeFunds.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmShowImage.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Login.frmLogin.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.ctrlDgvDailyFundTransaction.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.frmDailyIncomeFund.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.frmSupportingFundLiquidity.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.ctrlGeneralRevenueFundIncomeDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmGeneralFundSupport.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmManagingGeneralFund.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmAddUpdateAmountSpent.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.User.frmChangePassword.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.User.frmUserInfo.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Bookings.ctrlRentalBookingDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Checks.frmAddEditCheck.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlCustomerCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlCustomerCardWithFilter.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Customers.frmAddUpdateCustomer.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmTest.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlPersonCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlPersonCardWithFilter.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Pepole.frmAddUpdatePerson.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.ctrlDgvListTransactions.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.ctrlRentalTransactionDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.frmListTransAction.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.frmShowRentalTransActionInfo.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.Rental_Settings.frmCarRentalOperationsManagement.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Rental_Transaction.VehiclesReturn.ctrlVehicleReturn.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Users.ctrldgListUsersTransActions.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Users.ctrlUserAllInfo.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlUserCard.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmMain.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Users.frmAddUpdateUser.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Users.frmListUsersTransActions.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Users.frmListUsers.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Users.frmUserDetails.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.ctrlContractDetailsWithFilter.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Vehicles.ctrlShortDetailsVehicle.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Vehicles.ctrlVehicleWithFilter.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddUpdateVehicle.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.frmAddNewBooking.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Properties.Resources.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Vehicles.frmListVehicels.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.Vehicles.frmVehiclesReturn.resources
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.csproj.CopyComplete
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.exe
+C:\Car-Rental-Management\CarRentalManagement\obj\Debug\CarRental.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental.exe.config
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental.exe
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental_Buisness.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\Dapper.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\Guna.UI2.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\LiveCharts.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\LiveCharts.Wpf.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\MaterialSkin.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental_DataAccess.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental_Buisness.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\Dapper.xml
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\LiveCharts.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\LiveCharts.xml
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\LiveCharts.Wpf.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\LiveCharts.Wpf.xml
+C:\Car-Rental-Management\Car-Rental-Management-sln\bin\Debug\CarRental_DataAccess.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.ctrlAmountSpentDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.ctrldgvMoneyWithdrawalTransaction.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.frmMoneyWithdrawalTransaction.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmPaymentOfSalaries.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Bill.Controls.ctrlBillCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Bill.Controls.ctrlBillCardWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmShowBookingCheckDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlAllBranchesInAChart.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchChart.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchChartWithBranchCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchesChart.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlStatisticsWithBranchCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Daily_Income_Fund.ctrldgvListDailyIncomeFunds.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmVat.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Daily_Income_Fund.frmDailyIncomeDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateBills.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateContract.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateContractPaymentScheduling.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmDashboard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmListOfBills.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmListOfBranchesAndLogInToThem.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmListOfContracts.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmPayGeneralFundBill.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmPaymentOfInstallments.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmSellingVehicle.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCardWithIncomeDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundChart.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.frmListGeneralFundSupporters.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Maintenance_Management.ctrlListMaintenanceTransactions.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateMaintenanceTransaction.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrldgvGeneralFundSupportTransactions.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Maintenance_Management.frmListMaintenanceTransactions.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.ctrlAllCustomerInformation.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.frmListCustomers.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.frmShowCustomerInfo.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.Employee.ctrlEmployeeCardWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.Employee.frmAddUpdateEmployee.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.Employee.frmListEmployees.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmListDailyIncomeFunds.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmShowImage.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Login.frmLogin.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.ctrlDgvDailyFundTransaction.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.frmDailyIncomeFund.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.frmSupportingFundLiquidity.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.ctrlGeneralRevenueFundIncomeDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmGeneralFundSupport.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmManagingGeneralFund.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmAddUpdateAmountSpent.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.User.frmChangePassword.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.User.frmUserInfo.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Bookings.ctrlRentalBookingDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmAddEditCheck.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlCustomerCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlCustomerCardWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.frmAddUpdateCustomer.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlPersonCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlPersonCardWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.frmAddUpdatePerson.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.ctrlDgvListTransactions.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.ctrlRentalTransactionDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.frmShowRentalTransActionInfo.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.VehiclesReturn.ctrlVehicleReturn.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Users.ctrldgListUsersTransActions.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Users.ctrlUserAllInfo.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlUserCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmMain.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmAddUpdateUser.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmListUsersTransActions.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmListUsers.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmUserDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.ctrlShortDetailsVehicle.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.ctrlVehicleWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddNewBooking.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Properties.Resources.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.frmListVehicels.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.frmVehiclesReturn.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.exe
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.pdb
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.femListOfVehicleSales.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmAddUpdateInitialCheck.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmAddUpdateFinalCheck.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmVehicleCheck.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.ctrlFinalCheckDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.ctrlInitialCheckDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Contract_Payment_Scheduling_Applications.frmListOfSchedulingApplication.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlContractCard.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlContractCardWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchStatistics.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.Rental_Settings.frmBranchManagment.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.frmAdministration.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.FinancialObligations.ContractPaymentSchedulingApplications.frmInstallmentsDueThisMonth.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.ctrldgvSalariesPaid.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmListOfSalariesPaid.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.Employee.Forms.frmSelectEmployee.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.FinancialObligations.Contracts.Forms.frmShowContractDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.Forms.frmSelectVehicle.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.FinancialPenaltyAndFines.Fines.Forms.frmAddUpdateFinancialPenalty.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Bill_And_Financial_Penalties.Financial_Penalties.Forms.frmListOfFinancialPenalties.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.BranchManagment.Forms.frmBranchDetails.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.Forms.frmAddUpdateVehicle.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.company_information.frmCompanyInformation.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Contacts.Forms.frmAddUpdateCompanyContactNumbers.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Administration.Forms.frmCarRentalRules.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.Controls.ctrlRentalTransactionWithFilter.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.Controls.ctrlPrintContract.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.frmListRentalTransAction.resources
+C:\Car-Rental-Management\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.Up2Date
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental.exe.config
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental.exe
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental_Buisness.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\Dapper.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\Guna.UI2.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\LiveCharts.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\MaterialSkin.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental_DataAccess.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental_Buisness.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\Dapper.xml
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\LiveCharts.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\LiveCharts.xml
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\bin\Debug\CarRental_DataAccess.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Administration.Forms.frmCarRentalRules.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.ctrlAmountSpentDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.ctrldgvMoneyWithdrawalTransaction.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Money_Withdrawal_Transactions.frmMoneyWithdrawalTransaction.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.ctrldgvSalariesPaid.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmListOfSalariesPaid.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Amounts_Spent.Salary_Payments.frmPaymentOfSalaries.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Bill.Controls.ctrlBillCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Bill.Controls.ctrlBillCardWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.FinancialPenaltyAndFines.Fines.Forms.frmAddUpdateFinancialPenalty.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Bill_And_Financial_Penalties.Financial_Penalties.Forms.frmListOfFinancialPenalties.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.BranchManagment.Forms.frmBranchDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.ctrlFinalCheckDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.ctrlInitialCheckDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmAddUpdateFinalCheck.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmAddUpdateInitialCheck.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmShowBookingCheckDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmVehicleCheck.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.company_information.frmCompanyInformation.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Contacts.Forms.frmAddUpdateCompanyContactNumbers.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.FinancialObligations.ContractPaymentSchedulingApplications.frmInstallmentsDueThisMonth.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Contract_Payment_Scheduling_Applications.frmListOfSchedulingApplication.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlAllBranchesInAChart.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchChart.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchChartWithBranchCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchesChart.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlContractCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlBranchStatistics.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlStatisticsWithBranchCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Daily_Income_Fund.ctrldgvListDailyIncomeFunds.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmVat.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Daily_Income_Fund.frmDailyIncomeDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateBills.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateContract.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateContractPaymentScheduling.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.FinancialObligations.Contracts.Forms.frmShowContractDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmDashboard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmListOfBills.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmListOfBranchesAndLogInToThem.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmListOfContracts.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmPayGeneralFundBill.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmPaymentOfInstallments.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmAdministration.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.Controls.ctrlPrintContract.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.Controls.ctrlRentalTransactionWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.Forms.frmAddUpdateVehicle.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.Forms.frmSelectVehicle.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmSellingVehicle.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundCardWithIncomeDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrlGeneralRevenueFundChart.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.frmListGeneralFundSupporters.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Maintenance_Management.ctrlListMaintenanceTransactions.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddUpdateMaintenanceTransaction.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.General_Revenue_Fund.ctrldgvGeneralFundSupportTransactions.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Maintenance_Management.frmListMaintenanceTransactions.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.ctrlAllCustomerInformation.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.frmListCustomers.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.frmShowCustomerInfo.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmListDailyIncomeFunds.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmShowImage.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Login.frmLogin.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.ctrlDgvDailyFundTransaction.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.frmDailyIncomeFund.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.frmSupportingFundLiquidity.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.ctrlGeneralRevenueFundIncomeDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmGeneralFundSupport.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmManagingGeneralFund.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Fund.General_Revenue_Fund.frmAddUpdateAmountSpent.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Bookings.ctrlRentalBookingDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Checks.frmAddEditCheck.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlCustomerCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlCustomerCardWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Customers.frmAddUpdateCustomer.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlPersonCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlPersonCardWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.ctrlDgvListTransactions.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.ctrlRentalTransactionDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.frmListRentalTransAction.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.frmShowRentalTransActionInfo.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.Rental_Settings.frmBranchManagment.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Rental_Transaction.VehiclesReturn.ctrlVehicleReturn.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Users.ctrldgListUsersTransActions.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Users.ctrlUserAllInfo.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlUserCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmMain.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmAddUpdateUser.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmListUsersTransActions.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmListUsers.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Users.frmUserDetails.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.ctrlContractCardWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.ctrlShortDetailsVehicle.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.ctrlVehicleWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.femListOfVehicleSales.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.frmAddNewBooking.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Properties.Resources.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.frmListVehicels.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Vehicles.frmVehiclesReturn.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.csproj.Up2Date
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.exe
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.Employee.Forms.frmSelectEmployee.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.Employee.ctrlEmployeeCard.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.Employee.ctrlEmployeeCardWithFilter.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.Employee.frmAddUpdateEmployee.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.Employee.frmListEmployees.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.User.frmChangePassword.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.User.frmUserInfo.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.People.frmAddUpdatePerson.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.frmShowPersonInfo.resources
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\Car-Rental-Management-sln\obj\Debug\CarRental.Pepole.Person.frmListPeople.resources

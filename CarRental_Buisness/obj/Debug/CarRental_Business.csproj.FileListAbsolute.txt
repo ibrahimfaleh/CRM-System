@@ -1,0 +1,27 @@
+C:\CarRental_Buisness\bin\Debug\CarRental_Buisness.dll
+C:\CarRental_Buisness\bin\Debug\CarRental_Buisness.pdb
+C:\CarRental_Buisness\bin\Debug\CarRental_DataAccess.dll
+C:\CarRental_Buisness\bin\Debug\CarRental_DataAccess.pdb
+C:\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.AssemblyReference.cache
+C:\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.CoreCompileInputs.cache
+C:\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.CopyComplete
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.dll
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.pdb
+C:\Car-Rental-Management\CarRental_Buisness\bin\Debug\CarRental_Buisness.dll
+C:\Car-Rental-Management\CarRental_Buisness\bin\Debug\CarRental_Buisness.pdb
+C:\Car-Rental-Management\CarRental_Buisness\bin\Debug\CarRental_DataAccess.dll
+C:\Car-Rental-Management\CarRental_Buisness\bin\Debug\CarRental_DataAccess.pdb
+C:\Car-Rental-Management\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.AssemblyReference.cache
+C:\Car-Rental-Management\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.CoreCompileInputs.cache
+C:\Car-Rental-Management\CarRental_Buisness\obj\Debug\CarRental_Buisness.dll
+C:\Car-Rental-Management\CarRental_Buisness\obj\Debug\CarRental_Buisness.pdb
+C:\Car-Rental-Management\CarRental_Buisness\obj\Debug\CarRenta.0AF673AE.Up2Date
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\bin\Debug\CarRental_Buisness.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\bin\Debug\CarRental_Buisness.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\bin\Debug\CarRental_DataAccess.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\bin\Debug\CarRental_DataAccess.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\obj\Debug\CarRental_Business.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\obj\Debug\CarRenta.0AF673AE.Up2Date
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\obj\Debug\CarRental_Buisness.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_Buisness\obj\Debug\CarRental_Buisness.pdb

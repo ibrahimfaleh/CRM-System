@@ -1,0 +1,1532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6147DE05-C7CD-4D77-A77B-CB0070B4C453}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CarRental</RootNamespace>
+    <AssemblyName>CarRental</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Dapper.2.1.24\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.5, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.5\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.AppLocal, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.AnalysisServices.AppLocal.Tabular, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administration\Forms\frmCarRentalRules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\Forms\frmCarRentalRules.Designer.cs">
+      <DependentUpon>frmCarRentalRules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\ctrlAmountSpentDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\ctrlAmountSpentDetails.Designer.cs">
+      <DependentUpon>ctrlAmountSpentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\MoneyWithdrawalTransactions\ctrldgvMoneyWithdrawalTransaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\MoneyWithdrawalTransactions\ctrldgvMoneyWithdrawalTransaction.Designer.cs">
+      <DependentUpon>ctrldgvMoneyWithdrawalTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\MoneyWithdrawalTransactions\frmMoneyWithdrawalTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\MoneyWithdrawalTransactions\frmMoneyWithdrawalTransaction.Designer.cs">
+      <DependentUpon>frmMoneyWithdrawalTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\SalaryPayments\Controls\ctrldgvSalariesPaid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\SalaryPayments\Controls\ctrldgvSalariesPaid.Designer.cs">
+      <DependentUpon>ctrldgvSalariesPaid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\SalaryPayments\Forms\frmListOfSalariesPaid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\SalaryPayments\Forms\frmListOfSalariesPaid.Designer.cs">
+      <DependentUpon>frmListOfSalariesPaid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\SalaryPayments\Forms\frmPaymentOfSalaries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\SalaryPayments\Forms\frmPaymentOfSalaries.Designer.cs">
+      <DependentUpon>frmPaymentOfSalaries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Controls\ctrlBillCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Controls\ctrlBillCard.Designer.cs">
+      <DependentUpon>ctrlBillCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Controls\ctrlBillCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Controls\ctrlBillCardWithFilter.Designer.cs">
+      <DependentUpon>ctrlBillCardWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Financial Penalties\Forms\frmAddUpdateFinancialPenalty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Financial Penalties\Forms\frmAddUpdateFinancialPenalty.Designer.cs">
+      <DependentUpon>frmAddUpdateFinancialPenalty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Financial Penalties\Forms\frmListOfFinancialPenalties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Financial Penalties\Forms\frmListOfFinancialPenalties.Designer.cs">
+      <DependentUpon>frmListOfFinancialPenalties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmBranchDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmBranchDetails.Designer.cs">
+      <DependentUpon>frmBranchDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\ctrlFinalCheckDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Checks\ctrlFinalCheckDetails.Designer.cs">
+      <DependentUpon>ctrlFinalCheckDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\ctrlInitialCheckDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Checks\ctrlInitialCheckDetails.Designer.cs">
+      <DependentUpon>ctrlInitialCheckDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\frmAddUpdateFinalCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checks\frmAddUpdateFinalCheck.Designer.cs">
+      <DependentUpon>frmAddUpdateFinalCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\frmAddUpdateInitialCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checks\frmAddUpdateInitialCheck.Designer.cs">
+      <DependentUpon>frmAddUpdateInitialCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\frmShowCheckDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checks\frmShowCheckDetails.Designer.cs">
+      <DependentUpon>frmShowCheckDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\frmVehicleCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checks\frmVehicleCheck.Designer.cs">
+      <DependentUpon>frmVehicleCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="company information\Forms\frmCompanyInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="company information\Forms\frmCompanyInformation.Designer.cs">
+      <DependentUpon>frmCompanyInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Company Contact Numbers\Forms\frmAddUpdateCompanyContactNumbers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company Contact Numbers\Forms\frmAddUpdateCompanyContactNumbers.Designer.cs">
+      <DependentUpon>frmAddUpdateCompanyContactNumbers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmInstallmentsDueThisMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmInstallmentsDueThisMonth.Designer.cs">
+      <DependentUpon>frmInstallmentsDueThisMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmListOfSchedulingApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmListOfSchedulingApplication.Designer.cs">
+      <DependentUpon>frmListOfSchedulingApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlAllBranchesInAChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlAllBranchesInAChart.Designer.cs">
+      <DependentUpon>ctrlAllBranchesInAChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchChart.Designer.cs">
+      <DependentUpon>ctrlBranchChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchCard.Designer.cs">
+      <DependentUpon>ctrlBranchCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchChartWithBranchCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchChartWithBranchCard.Designer.cs">
+      <DependentUpon>ctrlBranchChartWithBranchCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchesChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchesChart.Designer.cs">
+      <DependentUpon>ctrlBranchesChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Controls\ctrlContractCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Controls\ctrlContractCard.Designer.cs">
+      <DependentUpon>ctrlContractCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchStatistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlBranchStatistics.Designer.cs">
+      <DependentUpon>ctrlBranchStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlStatisticsWithBranchCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Controls\ctrlStatisticsWithBranchCard.Designer.cs">
+      <DependentUpon>ctrlStatisticsWithBranchCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Controls\ctrldgvListDailyIncomeFunds.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Controls\ctrldgvListDailyIncomeFunds.Designer.cs">
+      <DependentUpon>ctrldgvListDailyIncomeFunds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmVat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmVat.Designer.cs">
+      <DependentUpon>frmVat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Forms\frmDailyIncomeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Forms\frmDailyIncomeDetails.Designer.cs">
+      <DependentUpon>frmDailyIncomeDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Forms\frmAddUpdateBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Forms\frmAddUpdateBills.Designer.cs">
+      <DependentUpon>frmAddUpdateBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Forms\frmAddUpdateContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Forms\frmAddUpdateContract.Designer.cs">
+      <DependentUpon>frmAddUpdateContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmAddUpdateContractPaymentScheduling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmAddUpdateContractPaymentScheduling.Designer.cs">
+      <DependentUpon>frmAddUpdateContractPaymentScheduling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Forms\frmShowContractDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Forms\frmShowContractDetails.Designer.cs">
+      <DependentUpon>frmShowContractDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\Forms\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\Forms\frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Forms\frmListOfBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Forms\frmListOfBills.Designer.cs">
+      <DependentUpon>frmListOfBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmListOfBranchesAndLogInToThem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmListOfBranchesAndLogInToThem.Designer.cs">
+      <DependentUpon>frmListOfBranchesAndLogInToThem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Forms\frmListOfContracts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Forms\frmListOfContracts.Designer.cs">
+      <DependentUpon>frmListOfContracts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Forms\frmPayGeneralFundBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill And Financial Penalties\Forms\frmPayGeneralFundBill.Designer.cs">
+      <DependentUpon>frmPayGeneralFundBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmPaymentOfInstallments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\ContractPaymentSchedulingApplications\frmPaymentOfInstallments.Designer.cs">
+      <DependentUpon>frmPaymentOfInstallments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\Forms\frmAdministration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration\Forms\frmAdministration.Designer.cs">
+      <DependentUpon>frmAdministration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global Classes\clsFormat.cs" />
+    <Compile Include="Global Classes\clsGlobal.cs" />
+    <Compile Include="Global Classes\clsValidatoin.cs" />
+    <Compile Include="Global Classes\util.cs" />
+    <Compile Include="Pepole\Employee\Forms\frmSelectEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Employee\Forms\frmSelectEmployee.Designer.cs">
+      <DependentUpon>frmSelectEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\frmShowPersonInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\frmShowPersonInfo.Designer.cs">
+      <DependentUpon>frmShowPersonInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Person\frmListPeople.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Person\frmListPeople.Designer.cs">
+      <DependentUpon>frmListPeople.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlPrintContract.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlPrintContract.Designer.cs">
+      <DependentUpon>ctrlPrintContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlRentalTransactionWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlRentalTransactionWithFilter.Designer.cs">
+      <DependentUpon>ctrlRentalTransactionWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmAddUpdateVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmAddUpdateVehicle.Designer.cs">
+      <DependentUpon>frmAddUpdateVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmSelectVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmSelectVehicle.Designer.cs">
+      <DependentUpon>frmSelectVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmSellingVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmSellingVehicle.Designer.cs">
+      <DependentUpon>frmSellingVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundCard.Designer.cs">
+      <DependentUpon>ctrlGeneralRevenueFundCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundCardWithIncomeDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundCardWithIncomeDetails.Designer.cs">
+      <DependentUpon>ctrlGeneralRevenueFundCardWithIncomeDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundChart.Designer.cs">
+      <DependentUpon>ctrlGeneralRevenueFundChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\frmListGeneralFundSupporters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\frmListGeneralFundSupporters.Designer.cs">
+      <DependentUpon>frmListGeneralFundSupporters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance Management\ctrlListMaintenanceTransactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Maintenance Management\ctrlListMaintenanceTransactions.Designer.cs">
+      <DependentUpon>ctrlListMaintenanceTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance Management\frmAddUpdateMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance Management\frmAddUpdateMaintenance.Designer.cs">
+      <DependentUpon>frmAddUpdateMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrldgvGeneralFundSupportTransactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrldgvGeneralFundSupportTransactions.Designer.cs">
+      <DependentUpon>ctrldgvGeneralFundSupportTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance Management\frmListMaintenanceTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance Management\frmListMaintenanceTransactions.Designer.cs">
+      <DependentUpon>frmListMaintenanceTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Customer\ctrlAllCustomerInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Customer\ctrlAllCustomerInformation.Designer.cs">
+      <DependentUpon>ctrlAllCustomerInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Customer\frmListCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Customer\frmListCustomers.Designer.cs">
+      <DependentUpon>frmListCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Customer\frmShowCustomerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Customer\frmShowCustomerInfo.Designer.cs">
+      <DependentUpon>frmShowCustomerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Employee\ctrlEmployeeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Employee\ctrlEmployeeCard.Designer.cs">
+      <DependentUpon>ctrlEmployeeCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Employee\ctrlEmployeeCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Employee\ctrlEmployeeCardWithFilter.Designer.cs">
+      <DependentUpon>ctrlEmployeeCardWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Employee\Forms\frmAddUpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Employee\Forms\frmAddUpdateEmployee.Designer.cs">
+      <DependentUpon>frmAddUpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Employee\Forms\frmListEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Employee\Forms\frmListEmployees.Designer.cs">
+      <DependentUpon>frmListEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Forms\frmListDailyIncomeFunds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Forms\frmListDailyIncomeFunds.Designer.cs">
+      <DependentUpon>frmListDailyIncomeFunds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowImage.Designer.cs">
+      <DependentUpon>frmShowImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Controls\ctrlDgvDailyFundTransaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Controls\ctrlDgvDailyFundTransaction.Designer.cs">
+      <DependentUpon>ctrlDgvDailyFundTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Forms\frmDailyIncomeFund.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyIncomeFund\Forms\frmDailyIncomeFund.Designer.cs">
+      <DependentUpon>frmDailyIncomeFund.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\Supporting Fund Liquidity\frmSupportingFundLiquidity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\Supporting Fund Liquidity\frmSupportingFundLiquidity.Designer.cs">
+      <DependentUpon>frmSupportingFundLiquidity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundIncomeDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\ctrlGeneralRevenueFundIncomeDetails.Designer.cs">
+      <DependentUpon>ctrlGeneralRevenueFundIncomeDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\frmGeneralFundSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\frmGeneralFundSupport.Designer.cs">
+      <DependentUpon>frmGeneralFundSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General Revenue Fund\frmManagingGeneralFund.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General Revenue Fund\frmManagingGeneralFund.Designer.cs">
+      <DependentUpon>frmManagingGeneralFund.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amounts Spent\frmAddUpdateAmountSpent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amounts Spent\frmAddUpdateAmountSpent.Designer.cs">
+      <DependentUpon>frmAddUpdateAmountSpent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\frmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\frmUserInfo.Designer.cs">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Booking\Controls\ctrlRentalBookingDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Booking\Controls\ctrlRentalBookingDetails.Designer.cs">
+      <DependentUpon>ctrlRentalBookingDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checks\frmAddEditCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checks\frmAddEditCheck.Designer.cs">
+      <DependentUpon>frmAddEditCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Customer\ctrlCustomerCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Customer\ctrlCustomerCard.Designer.cs">
+      <DependentUpon>ctrlCustomerCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Customer\ctrlCustomerCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Customer\ctrlCustomerCardWithFilter.Designer.cs">
+      <DependentUpon>ctrlCustomerCardWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Customer\frmAddUpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Customer\frmAddUpdateCustomer.Designer.cs">
+      <DependentUpon>frmAddUpdateCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Person\ctrlPersonCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Person\ctrlPersonCard.Designer.cs">
+      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Person\ctrlPersonCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\Person\ctrlPersonCardWithFilter.Designer.cs">
+      <DependentUpon>ctrlPersonCardWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\Person\frmAddUpdatePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\Person\frmAddUpdatePerson.Designer.cs">
+      <DependentUpon>frmAddUpdatePerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlDgvListTransactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlDgvListTransactions.Designer.cs">
+      <DependentUpon>ctrlDgvListTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlRentalTransactionDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Controls\ctrlRentalTransactionDetails.Designer.cs">
+      <DependentUpon>ctrlRentalTransactionDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Forms\frmListRentalTransAction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Forms\frmListRentalTransAction.Designer.cs">
+      <DependentUpon>frmListRentalTransAction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Forms\frmShowRentalTransActionInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Forms\frmShowRentalTransActionInfo.Designer.cs">
+      <DependentUpon>frmShowRentalTransActionInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmBranchManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchManagment\Forms\frmBranchManagment.Designer.cs">
+      <DependentUpon>frmBranchManagment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\VehiclesReturn\ctrlVehicleReturn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\VehiclesReturn\ctrlVehicleReturn.Designer.cs">
+      <DependentUpon>ctrlVehicleReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\ctrldgListUsersTransActions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\ctrldgListUsersTransActions.Designer.cs">
+      <DependentUpon>ctrldgListUsersTransActions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\ctrlUserAllInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\ctrlUserAllInfo.Designer.cs">
+      <DependentUpon>ctrlUserAllInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\ctrlUserCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\ctrlUserCard.Designer.cs">
+      <DependentUpon>ctrlUserCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\frmAddUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\frmAddUpdateUser.Designer.cs">
+      <DependentUpon>frmAddUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\frmListTransActions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\frmListTransActions.Designer.cs">
+      <DependentUpon>frmListTransActions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\frmListUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\frmListUsers.Designer.cs">
+      <DependentUpon>frmListUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pepole\User\frmUserDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pepole\User\frmUserDetails.Designer.cs">
+      <DependentUpon>frmUserDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Controls\ctrlContractCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FinancialObligations\Contracts\Controls\ctrlContractCardWithFilter.Designer.cs">
+      <DependentUpon>ctrlContractCardWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles\Controls\ctrlShortDetailsVehicle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Controls\ctrlShortDetailsVehicle.Designer.cs">
+      <DependentUpon>ctrlShortDetailsVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles\Controls\ctrlVehicleWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Controls\ctrlVehicleWithFilter.Designer.cs">
+      <DependentUpon>ctrlVehicleWithFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles\Forms\femListOfVehicleSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Forms\femListOfVehicleSales.Designer.cs">
+      <DependentUpon>femListOfVehicleSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\Booking\Forms\frmAddNewBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\Booking\Forms\frmAddNewBooking.Designer.cs">
+      <DependentUpon>frmAddNewBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehicles\Forms\frmListVehicls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicles\Forms\frmListVehicls.Designer.cs">
+      <DependentUpon>frmListVehicls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rental Transaction\VehiclesReturn\frmVehiclesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rental Transaction\VehiclesReturn\frmVehiclesReturn.Designer.cs">
+      <DependentUpon>frmVehiclesReturn.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administration\Forms\frmCarRentalRules.resx">
+      <DependentUpon>frmCarRentalRules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\ctrlAmountSpentDetails.resx">
+      <DependentUpon>ctrlAmountSpentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\MoneyWithdrawalTransactions\ctrldgvMoneyWithdrawalTransaction.resx">
+      <DependentUpon>ctrldgvMoneyWithdrawalTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\MoneyWithdrawalTransactions\frmMoneyWithdrawalTransaction.resx">
+      <DependentUpon>frmMoneyWithdrawalTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\SalaryPayments\Controls\ctrldgvSalariesPaid.resx">
+      <DependentUpon>ctrldgvSalariesPaid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\SalaryPayments\Forms\frmListOfSalariesPaid.resx">
+      <DependentUpon>frmListOfSalariesPaid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\SalaryPayments\Forms\frmPaymentOfSalaries.resx">
+      <DependentUpon>frmPaymentOfSalaries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Controls\ctrlBillCard.resx">
+      <DependentUpon>ctrlBillCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Controls\ctrlBillCardWithFilter.resx">
+      <DependentUpon>ctrlBillCardWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Financial Penalties\Forms\frmAddUpdateFinancialPenalty.resx">
+      <DependentUpon>frmAddUpdateFinancialPenalty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Financial Penalties\Forms\frmListOfFinancialPenalties.resx">
+      <DependentUpon>frmListOfFinancialPenalties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Forms\frmBranchDetails.resx">
+      <DependentUpon>frmBranchDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\ctrlFinalCheckDetails.resx">
+      <DependentUpon>ctrlFinalCheckDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\ctrlInitialCheckDetails.resx">
+      <DependentUpon>ctrlInitialCheckDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\frmAddUpdateFinalCheck.resx">
+      <DependentUpon>frmAddUpdateFinalCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\frmAddUpdateInitialCheck.resx">
+      <DependentUpon>frmAddUpdateInitialCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\frmShowCheckDetails.resx">
+      <DependentUpon>frmShowCheckDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\frmVehicleCheck.resx">
+      <DependentUpon>frmVehicleCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="company information\Forms\frmCompanyInformation.resx">
+      <DependentUpon>frmCompanyInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company Contact Numbers\Forms\frmAddUpdateCompanyContactNumbers.resx">
+      <DependentUpon>frmAddUpdateCompanyContactNumbers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\ContractPaymentSchedulingApplications\frmInstallmentsDueThisMonth.resx">
+      <DependentUpon>frmInstallmentsDueThisMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\ContractPaymentSchedulingApplications\frmListOfSchedulingApplication.resx">
+      <DependentUpon>frmListOfSchedulingApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlAllBranchesInAChart.resx">
+      <DependentUpon>ctrlAllBranchesInAChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlBranchChart.resx">
+      <DependentUpon>ctrlBranchChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlBranchCard.resx">
+      <DependentUpon>ctrlBranchCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlBranchChartWithBranchCard.resx">
+      <DependentUpon>ctrlBranchChartWithBranchCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlBranchesChart.resx">
+      <DependentUpon>ctrlBranchesChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\Contracts\Controls\ctrlContractCard.resx">
+      <DependentUpon>ctrlContractCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlBranchStatistics.resx">
+      <DependentUpon>ctrlBranchStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Controls\ctrlStatisticsWithBranchCard.resx">
+      <DependentUpon>ctrlStatisticsWithBranchCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyIncomeFund\Controls\ctrldgvListDailyIncomeFunds.resx">
+      <DependentUpon>ctrldgvListDailyIncomeFunds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Forms\frmVat.resx">
+      <DependentUpon>frmVat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyIncomeFund\Forms\frmDailyIncomeDetails.resx">
+      <DependentUpon>frmDailyIncomeDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Forms\frmAddUpdateBills.resx">
+      <DependentUpon>frmAddUpdateBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\Contracts\Forms\frmAddUpdateContract.resx">
+      <DependentUpon>frmAddUpdateContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\ContractPaymentSchedulingApplications\frmAddUpdateContractPaymentScheduling.resx">
+      <DependentUpon>frmAddUpdateContractPaymentScheduling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\Contracts\Forms\frmShowContractDetails.resx">
+      <DependentUpon>frmShowContractDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\Forms\frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Forms\frmListOfBills.resx">
+      <DependentUpon>frmListOfBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Forms\frmListOfBranchesAndLogInToThem.resx">
+      <DependentUpon>frmListOfBranchesAndLogInToThem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\Contracts\Forms\frmListOfContracts.resx">
+      <DependentUpon>frmListOfContracts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill And Financial Penalties\Forms\frmPayGeneralFundBill.resx">
+      <DependentUpon>frmPayGeneralFundBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinancialObligations\ContractPaymentSchedulingApplications\frmPaymentOfInstallments.resx">
+      <DependentUpon>frmPaymentOfInstallments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\Forms\frmAdministration.resx">
+      <DependentUpon>frmAdministration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Employee\Forms\frmSelectEmployee.resx">
+      <DependentUpon>frmSelectEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\frmShowPersonInfo.resx">
+      <DependentUpon>frmShowPersonInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Person\frmListPeople.resx">
+      <DependentUpon>frmListPeople.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Controls\ctrlPrintContract.resx">
+      <DependentUpon>ctrlPrintContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Controls\ctrlRentalTransactionWithFilter.resx">
+      <DependentUpon>ctrlRentalTransactionWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles\Forms\frmAddUpdateVehicle.resx">
+      <DependentUpon>frmAddUpdateVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles\Forms\frmSelectVehicle.resx">
+      <DependentUpon>frmSelectVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles\Forms\frmSellingVehicle.resx">
+      <DependentUpon>frmSellingVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\ctrlGeneralRevenueFundCard.resx">
+      <DependentUpon>ctrlGeneralRevenueFundCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\ctrlGeneralRevenueFundCardWithIncomeDetails.resx">
+      <DependentUpon>ctrlGeneralRevenueFundCardWithIncomeDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\ctrlGeneralRevenueFundChart.resx">
+      <DependentUpon>ctrlGeneralRevenueFundChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\frmListGeneralFundSupporters.resx">
+      <DependentUpon>frmListGeneralFundSupporters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance Management\ctrlListMaintenanceTransactions.resx">
+      <DependentUpon>ctrlListMaintenanceTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance Management\frmAddUpdateMaintenance.resx">
+      <DependentUpon>frmAddUpdateMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\ctrldgvGeneralFundSupportTransactions.resx">
+      <DependentUpon>ctrldgvGeneralFundSupportTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance Management\frmListMaintenanceTransactions.resx">
+      <DependentUpon>frmListMaintenanceTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Customer\ctrlAllCustomerInformation.resx">
+      <DependentUpon>ctrlAllCustomerInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Customer\frmListCustomers.resx">
+      <DependentUpon>frmListCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Customer\frmShowCustomerInfo.resx">
+      <DependentUpon>frmShowCustomerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Employee\ctrlEmployeeCard.resx">
+      <DependentUpon>ctrlEmployeeCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Employee\ctrlEmployeeCardWithFilter.resx">
+      <DependentUpon>ctrlEmployeeCardWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Employee\Forms\frmAddUpdateEmployee.resx">
+      <DependentUpon>frmAddUpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Employee\Forms\frmListEmployees.resx">
+      <DependentUpon>frmListEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyIncomeFund\Forms\frmListDailyIncomeFunds.resx">
+      <DependentUpon>frmListDailyIncomeFunds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowImage.resx">
+      <DependentUpon>frmShowImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyIncomeFund\Controls\ctrlDgvDailyFundTransaction.resx">
+      <DependentUpon>ctrlDgvDailyFundTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyIncomeFund\Forms\frmDailyIncomeFund.resx">
+      <DependentUpon>frmDailyIncomeFund.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\Supporting Fund Liquidity\frmSupportingFundLiquidity.resx">
+      <DependentUpon>frmSupportingFundLiquidity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\ctrlGeneralRevenueFundIncomeDetails.resx">
+      <DependentUpon>ctrlGeneralRevenueFundIncomeDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\frmGeneralFundSupport.resx">
+      <DependentUpon>frmGeneralFundSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General Revenue Fund\frmManagingGeneralFund.resx">
+      <DependentUpon>frmManagingGeneralFund.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amounts Spent\frmAddUpdateAmountSpent.resx">
+      <DependentUpon>frmAddUpdateAmountSpent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\frmUserInfo.resx">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Booking\Controls\ctrlRentalBookingDetails.resx">
+      <DependentUpon>ctrlRentalBookingDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checks\frmAddEditCheck.resx">
+      <DependentUpon>frmAddEditCheck.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Customer\ctrlCustomerCard.resx">
+      <DependentUpon>ctrlCustomerCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Customer\ctrlCustomerCardWithFilter.resx">
+      <DependentUpon>ctrlCustomerCardWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Customer\frmAddUpdateCustomer.resx">
+      <DependentUpon>frmAddUpdateCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Person\ctrlPersonCard.resx">
+      <DependentUpon>ctrlPersonCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Person\ctrlPersonCardWithFilter.resx">
+      <DependentUpon>ctrlPersonCardWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\Person\frmAddUpdatePerson.resx">
+      <DependentUpon>frmAddUpdatePerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Controls\ctrlDgvListTransactions.resx">
+      <DependentUpon>ctrlDgvListTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Controls\ctrlRentalTransactionDetails.resx">
+      <DependentUpon>ctrlRentalTransactionDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Forms\frmListRentalTransAction.resx">
+      <DependentUpon>frmListRentalTransAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Forms\frmShowRentalTransActionInfo.resx">
+      <DependentUpon>frmShowRentalTransActionInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchManagment\Forms\frmBranchManagment.resx">
+      <DependentUpon>frmBranchManagment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\VehiclesReturn\ctrlVehicleReturn.resx">
+      <DependentUpon>ctrlVehicleReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\ctrldgListUsersTransActions.resx">
+      <DependentUpon>ctrldgListUsersTransActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\ctrlUserAllInfo.resx">
+      <DependentUpon>ctrlUserAllInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\ctrlUserCard.resx">
+      <DependentUpon>ctrlUserCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\frmAddUpdateUser.resx">
+      <DependentUpon>frmAddUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\frmListTransActions.resx">
+      <DependentUpon>frmListTransActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\frmListUsers.resx">
+      <DependentUpon>frmListUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pepole\User\frmUserDetails.resx">
+      <DependentUpon>frmUserDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Resources\ctrldgRentalBookingWithFalter.resx" />
+    <EmbeddedResource Include="FinancialObligations\Contracts\Controls\ctrlContractCardWithFilter.resx">
+      <DependentUpon>ctrlContractCardWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles\Controls\ctrlShortDetailsVehicle.resx">
+      <DependentUpon>ctrlShortDetailsVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles\Controls\ctrlVehicleWithFilter.resx">
+      <DependentUpon>ctrlVehicleWithFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles\Forms\femListOfVehicleSales.resx">
+      <DependentUpon>femListOfVehicleSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\Booking\Forms\frmAddNewBooking.resx">
+      <DependentUpon>frmAddNewBooking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vehicles\Forms\frmListVehicls.resx">
+      <DependentUpon>frmListVehicls.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rental Transaction\VehiclesReturn\frmVehiclesReturn.resx">
+      <DependentUpon>frmVehiclesReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CarRental_Buisness\CarRental_Business.csproj">
+      <Project>{7a3ba09d-7115-4d80-9656-7dfa00b94f18}</Project>
+      <Name>CarRental_Business</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\.editorconfig" />
+    <None Include="Resources\Screenshot %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_settings 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add New User 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add New User 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddAppointment 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddPerson 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Address 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application Types 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application Types 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Applications 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Applications.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ApplicationTitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ApplicationType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cars 48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBlack32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Count 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Country 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Damaged Driving License 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete 32 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete User 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detain 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detain 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detain 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Detained Driving License 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Driver License 48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Driver Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drivers 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\driving-test 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DVLD Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit User 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Email 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Faild.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Female 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\International 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IssueDrivingLicense 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\License Type 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\License View 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LicenseView 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Local 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Local Driving License 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LocalDriving License.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Final.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lost Driving License 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Man 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage Applications 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage Applications 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage People.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money 32 - 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Application 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Driving License 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Number 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Passed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PassedTests 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonDetails 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonLicenseHistory 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonLicenseHistory 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phone 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prev 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prev 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Release Detained License 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Release Detained License 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Release Detained License 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Renew Driving License 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Retake Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Schedule Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Schedule Test 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchPerson.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\send email 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign Out 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_in 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_out 32 -2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SignOut 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Street Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test Type 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TestType 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TestType 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User 32 -2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vision 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vision Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vision Test Schdule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallPaper2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Woman 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Written Test 32 Sechdule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Written Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Written Test 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vat.png" />
+    <None Include="Resources\transaction.png" />
+    <None Include="Resources\VehicleDamage.png" />
+    <None Include="Resources\users.png" />
+    <None Include="Resources\ActualProfits.png" />
+    <None Include="Resources\AMountSpent.png" />
+    <None Include="Resources\availability.png" />
+    <None Include="Resources\Accounting.png" />
+    <None Include="Resources\bill.png" />
+    <None Include="Resources\branch.png" />
+    <None Include="Resources\accounting %281%29.png" />
+    <None Include="Resources\agreement.png" />
+    <Content Include="Resources\calculator.png" />
+    <None Include="Resources\Vehicle.png" />
+    <None Include="Resources\gear1.png" />
+    <None Include="Resources\tools_equipement1.png" />
+    <None Include="Resources\calculator1.png" />
+    <None Include="Resources\employee.png" />
+    <None Include="Resources\ExpectedProfits.png" />
+    <None Include="Resources\Dashboard.png" />
+    <None Include="Resources\car %281%29.png" />
+    <None Include="Resources\debt.png" />
+    <None Include="Resources\fleet-management.png" />
+    <None Include="Resources\dashboard %281%29.png" />
+    <None Include="Resources\Days.png" />
+    <None Include="Resources\calendar.png" />
+    <None Include="Resources\Check.png" />
+    <None Include="Resources\contract.png" />
+    <Content Include="Resources\gear.png" />
+    <None Include="Resources\gross.png" />
+    <None Include="Resources\money.png" />
+    <None Include="Resources\maintenance.png" />
+    <None Include="Resources\salary.png" />
+    <None Include="Resources\RentalCompleted.png" />
+    <None Include="Resources\RentalNew.png" />
+    <None Include="Resources\SerchVehicle.png" />
+    <None Include="Resources\List.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\team-management.png" />
+    <None Include="Resources\MangBranch.png" />
+    <None Include="Resources\Login.png" />
+    <None Include="Resources\people.png" />
+    <None Include="Resources\people %281%29.png" />
+    <None Include="Resources\return.png" />
+    <None Include="Resources\office.png" />
+    <None Include="Resources\photoEmpty.png" />
+    <None Include="Resources\photoEmpty1.png" />
+    <None Include="Resources\km.png" />
+    <None Include="Resources\NumberOf.png" />
+    <None Include="Resources\pin.png" />
+    <None Include="Resources\shopping.png" />
+    <None Include="Resources\price-tag.png" />
+    <None Include="Resources\Serch.png" />
+    <Content Include="Resources\tools_equipement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Administration\Forms\Controls\" />
+    <Folder Include="Bill And Financial Penalties\Financial Penalties\Controls\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

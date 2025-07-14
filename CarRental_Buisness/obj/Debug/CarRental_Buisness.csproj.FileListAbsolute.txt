@@ -1,0 +1,9 @@
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.csproj.AssemblyReference.cache
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.csproj.CoreCompileInputs.cache
+C:\CarRental_Buisness\bin\Debug\CarRental_Buisness.dll
+C:\CarRental_Buisness\bin\Debug\CarRental_Buisness.pdb
+C:\CarRental_Buisness\bin\Debug\CarRental_DataAccess.dll
+C:\CarRental_Buisness\bin\Debug\CarRental_DataAccess.pdb
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.csproj.CopyComplete
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.dll
+C:\CarRental_Buisness\obj\Debug\CarRental_Buisness.pdb

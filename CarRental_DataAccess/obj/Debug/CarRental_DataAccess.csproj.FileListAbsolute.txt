@@ -1,0 +1,18 @@
+C:\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.AssemblyReference.cache
+C:\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.CoreCompileInputs.cache
+C:\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.dll
+C:\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.pdb
+C:\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.dll
+C:\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.pdb
+C:\Car-Rental-Management\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.dll
+C:\Car-Rental-Management\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.pdb
+C:\Car-Rental-Management\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.AssemblyReference.cache
+C:\Car-Rental-Management\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.CoreCompileInputs.cache
+C:\Car-Rental-Management\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.dll
+C:\Car-Rental-Management\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_DataAccess\bin\Debug\CarRental_DataAccess.pdb
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.dll
+C:\Users\Человек\Desktop\New folder (17)\CRM-System\CarRental_DataAccess\obj\Debug\CarRental_DataAccess.pdb

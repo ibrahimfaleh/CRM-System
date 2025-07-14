@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F69C41B-0DE3-4529-AB37-68CBCB3DAF8C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CarRental_DataAccess</RootNamespace>
+    <AssemblyName>CarRental_DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AmountSpentData.cs" />
+    <Compile Include="BillData.cs" />
+    <Compile Include="BodieData.cs" />
+    <Compile Include="BodiesData.cs" />
+    <Compile Include="CarRentalRuleData.cs" />
+    <Compile Include="CityData.cs" />
+    <Compile Include="clsVehicleCheckData.cs" />
+    <Compile Include="BranchData.cs" />
+    <Compile Include="ChecData.cs" />
+    <Compile Include="clsBranchDetailsData.cs" />
+    <Compile Include="clsDataAccessSettings.cs" />
+    <Compile Include="clsCountryData.cs" />
+    <Compile Include="CompanyContactNumberData.cs" />
+    <Compile Include="CompanyData.cs" />
+    <Compile Include="ContractData.cs" />
+    <Compile Include="clsContractPaymentScheduleData.cs" />
+    <Compile Include="ContractPaymentSchedulingApplicationData.cs" />
+    <Compile Include="CustomerData.cs" />
+    <Compile Include="DailyFundBillData.cs" />
+    <Compile Include="DailyIncomeFundData.cs" />
+    <Compile Include="DailyIncomeFundTransactionData.cs" />
+    <Compile Include="DepartmentData.cs" />
+    <Compile Include="DriveTypeData.cs" />
+    <Compile Include="EmployeeData.cs" />
+    <Compile Include="FinalCheckData.cs" />
+    <Compile Include="FinancialPenaltieData.cs" />
+    <Compile Include="FuleTypeData.cs" />
+    <Compile Include="GeneralFundBillData.cs" />
+    <Compile Include="GeneralFundSupportTransactionData.cs" />
+    <Compile Include="GeneralRevenueFundData.cs" />
+    <Compile Include="InitialCheckData.cs" />
+    <Compile Include="MaintenanceTransactionData.cs" />
+    <Compile Include="MakeData.cs" />
+    <Compile Include="MakeModelData.cs" />
+    <Compile Include="ModelData.cs" />
+    <Compile Include="MoneyWithdrawalTransactionData.cs" />
+    <Compile Include="PaymentMethodData.cs" />
+    <Compile Include="PenaltyTypeData.cs" />
+    <Compile Include="PersonData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RentalBookingData.cs" />
+    <Compile Include="RentalBranchLocationData.cs" />
+    <Compile Include="RentalTransactionData.cs" />
+    <Compile Include="clsUserData.cs" />
+    <Compile Include="SalaryPaymentData.cs" />
+    <Compile Include="SupportingFundLiquidityData.cs" />
+    <Compile Include="TaxData.cs" />
+    <Compile Include="TypesContractData.cs" />
+    <Compile Include="TypesOfBillData.cs" />
+    <Compile Include="VehicleData.cs" />
+    <Compile Include="VehicleReturnData.cs" />
+    <Compile Include="VehicleSaleData.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
